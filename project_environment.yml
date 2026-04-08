@@ -1,0 +1,17 @@
+name: project_environment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
+  - scipy
+  - matplotlib-venn
+  - scanpy
+  - bbknn
+  - squidpy
